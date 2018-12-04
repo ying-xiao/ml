@@ -2,3 +2,4 @@
 - SVM on sklearn https://scikit-learn.org/stable/modules/svm.html
 - MLP on sklearn https://scikit-learn.org/stable/modules/neural_networks_supervised.html
 - Data Cleaning https://elitedatascience.com/data-cleaning
+- Income Data Visualization https://www.valentinmihov.com/2015/04/17/adult-income-data-set/
