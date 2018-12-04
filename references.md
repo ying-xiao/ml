@@ -1,3 +1,3 @@
-Naive Bayes on sklearn https://scikit-learn.org/stable/modules/naive_bayes.html
-SVM on sklearn https://scikit-learn.org/stable/modules/svm.html
-MLP on sklearn https://scikit-learn.org/stable/modules/neural_networks_supervised.html
+- Naive Bayes on sklearn https://scikit-learn.org/stable/modules/naive_bayes.html
+- SVM on sklearn https://scikit-learn.org/stable/modules/svm.html
+- MLP on sklearn https://scikit-learn.org/stable/modules/neural_networks_supervised.html
